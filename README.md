@@ -7,6 +7,10 @@ I’m a very adaptable person, I relish new tasks and the unknown. I enjoy progr
 
 I have a proven history of building infrastructure and teams to enable swift and efficient agile development via continuous integration systems. I have a strong focus on testing and testability with a focus on user experience. I’m also a certified CSM and CSPO.
 
+[![CSM](https://badgecert.com/bc/html/img/badges/generated/badge-7224.png)](https://badgecert.com/bc/html/publicgroup.html?k=TGxhbjFvRFZPV29IelhNTUk5MVI0RGs0cTkybW0yb2Q)
+[![CSPO](https://badgecert.com/bc/html/img/badges/generated/badge-7227.png
+)](https://badgecert.com/bc/html/publicgroup.html?k=TGxhbjFvRFZPV29IelhNTUk5MVI0RGs0cTkybW0yb2Q)
+
 Outside of work interests I run a code club at my son’s school, I’m an amateur triathlete and love picking up any musical instrument I can get my hands on. 
 
 - LinkedIn: http://uk.linkedin.com/in/bluemonki/ 
