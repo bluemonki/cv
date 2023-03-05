@@ -1,4 +1,3 @@
-# cv
 ## About me 
 Hello, I’m John. I am a 41 year old software developer who has experience in all forms of development, from rapid prototyping in languages like Perl, Ruby or Python, to longer lived projects using languages such as C, C++ and Java. 
 
