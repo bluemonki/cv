@@ -1,9 +1,13 @@
 # cv
 ## About me 
 Hello, I’m John. I am a 41 year old software developer who has experience in all forms of development, from rapid prototyping in languages like Perl, Ruby or Python, to longer lived projects using languages such as C, C++ and Java. 
+
 I am a Cybernetics graduate from the University of Reading, where I graduated with a 2.1 MEng degree and spent a year working in industry. After my degree I worked at a small software firm in Bristol before moving south and starting work at IBM in Hursley. After 8 years I moved further south to work at Folk Digital, then Hitachi and now at Nourish Care.
+
 I’m a very adaptable person, I relish new tasks and the unknown. I enjoy programming both professionally and recreationally and I also enjoy solving problems, hence the list of cross-functional responsibilities for the roles below. 
+
 I have a proven history of building infrastructure and teams to enable swift and efficient agile development via continuous integration systems. I have a strong focus on testing and testability with a focus on user experience. I’m also a certified CSM and CSPO.
+
 Outside of work interests I run a code club at my son’s school, I’m an amateur triathlete and love picking up any musical instrument I can get my hands on. 
 
 - LinkedIn: http://uk.linkedin.com/in/bluemonki/ 
